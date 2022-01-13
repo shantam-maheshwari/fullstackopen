@@ -1,0 +1,3 @@
+Part 0b:
+- The application exists only to demonstrate some basic concepts of the course, and are by no means examples of how web applications should be made. On the contrary, they demonstrate some old techniques of web development, which could even be considered bad practices nowadays.
++ The application exists only to demonstrate some basic concepts of the course, and is by no means an example of how web applications should be made. On the contrary, it demonstrates some old techniques of web development, which could even be considered bad practices nowadays.
